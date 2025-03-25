@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PhamKien2803/Deploy_MomUni/static/css/main.7a9f4bdd.css",
+    "main.js": "/PhamKien2803/Deploy_MomUni/static/js/main.abf20c3b.js",
+    "static/js/453.b069775a.chunk.js": "/PhamKien2803/Deploy_MomUni/static/js/453.b069775a.chunk.js",
+    "static/media/slick.svg": "/PhamKien2803/Deploy_MomUni/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/PhamKien2803/Deploy_MomUni/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/PhamKien2803/Deploy_MomUni/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/PhamKien2803/Deploy_MomUni/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/PhamKien2803/Deploy_MomUni/index.html",
+    "main.7a9f4bdd.css.map": "/PhamKien2803/Deploy_MomUni/static/css/main.7a9f4bdd.css.map",
+    "main.abf20c3b.js.map": "/PhamKien2803/Deploy_MomUni/static/js/main.abf20c3b.js.map",
+    "453.b069775a.chunk.js.map": "/PhamKien2803/Deploy_MomUni/static/js/453.b069775a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a9f4bdd.css",
+    "static/js/main.abf20c3b.js"
+  ]
+}
