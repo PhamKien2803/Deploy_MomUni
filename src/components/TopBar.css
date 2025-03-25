@@ -1,0 +1,72 @@
+/* TOP BAR CONTAINER */
+.top-bar {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+  padding: 8px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* LEFT & RIGHT SECTIONS */
+.top-bar-left,
+.top-bar-right {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 15px;
+}
+
+/* TOP BAR LINKS */
+.top-bar-link {
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.top-bar-link:hover {
+  color: #ed008c;
+  text-decoration: underline;
+}
+
+/* WEATHER INFO */
+.top-bar-weather {
+  font-weight: 600;
+  color: #ed008c;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+/* ICONS (tùy chọn nếu có) */
+.top-bar-weather i {
+  font-size: 16px;
+  color: #ed008c;
+}
+
+/* RESPONSIVE DESIGN */
+@media (max-width: 768px) {
+  .top-bar {
+    flex-direction: column;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .top-bar-left,
+  .top-bar-right {
+    justify-content: center;
+    gap: 10px;
+    margin-top: 5px;
+  }
+
+  .top-bar-link {
+    font-size: 13px;
+  }
+}
